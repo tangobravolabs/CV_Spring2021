@@ -1,5 +1,20 @@
 # CV_Spring2021
 
+04.06.21
+https://web.stanford.edu/class/cs231a/project.html
+* Applications. If you're coming to the class with a specific background and interests (e.g. biology, engineering, physics), we'd love to see you apply computer vision to problems related to your particular domain of interest. Pick a real-world problem and apply the techniques covered in the class (or even beyond the class) to solve it!
+* Models. You can build a new model (algorithm) for computer vision, or a new variant of existing models, and apply it to tackle vision tasks. This track might be more challenging, and sometimes leads to a piece of publishable work. Talk to the course staff if you would like to pursue this route for more ideas!
+* Visual desciptionProject Proposal
+* > The project proposal should be up to 2 pages and should contain the following:
+* > What is the problem that you will be investigating? Why is it interesting?
+* > What data will you use? If you are collecting new datasets, how do you plan to collect them?
+* > What method or algorithm are you proposing? If there are existing implementations, will you use them and how? How do you plan to improve or modify such implementations?
+* > What reading will you examine to provide context and background?
+* > How will you evaluate your results? Qualitatively, what kind of results do you expect (e.g. plots or figures)? Quantitatively, what kind of analysis will you use to evaluate and/or compare your results (e.g. what performance metrics or statistical tests)?
+* > By what dates will you complete certain parts of your project? List specific goals for the midterm progress report.
+* http://www.cv-foundation.org/openaccess/CVPR2016.py
+
+
 04/02/21
 TIL: https://clearpathrobotics.com/heron-unmanned-surface-vessel/
 * Robotic Sensors:
