@@ -1,5 +1,16 @@
 # CV_Spring2021
 
+04.07.21
+https://cloud.google.com/vision/docs/drag-and-drop
+* Google API allows a drag and drop test drive feature
+* Comes back with obeject detection and confidence
+* Comes back with top labesl and confidence (interesting relationship between things)
+* Comes back with colors and % of image
+* Comes back with safe search issue confidences
+Also, https://experiments.withgoogle.com/collection/ai
+* https://pose.yee.gd/
+* https://experiments.withgoogle.com/ai/melody-mixer/view
+
 04.06.21
 https://web.stanford.edu/class/cs231a/project.html
 * Applications. If you're coming to the class with a specific background and interests (e.g. biology, engineering, physics), we'd love to see you apply computer vision to problems related to your particular domain of interest. Pick a real-world problem and apply the techniques covered in the class (or even beyond the class) to solve it!
