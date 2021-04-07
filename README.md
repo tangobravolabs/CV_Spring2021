@@ -10,6 +10,7 @@ https://cloud.google.com/vision/docs/drag-and-drop
 Also, https://experiments.withgoogle.com/collection/ai
 * https://pose.yee.gd/
 * https://experiments.withgoogle.com/ai/melody-mixer/view
+* https://experiments.withgoogle.com/alto
 
 04.06.21
 https://web.stanford.edu/class/cs231a/project.html
