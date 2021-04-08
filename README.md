@@ -1,5 +1,36 @@
 # CV_Spring2021
 
+04.08.21
+https://machinelearningmastery.com/what-is-computer-vision/
+* To get the most out of image data, we need computers to “see” an image and understand the content.
+* This is a trivial problem for a human, even young children.
+* Computer vision is a field of study focused on the problem of helping computers to see.
+* The goal of computer vision is to understand the content of digital images. Typically, this involves developing methods that attempt to reproduce the capability of human vision.
+* Image processing is the process of creating a new image from an existing image, typically simplifying or enhancing the content in some way. It is a type of digital signal processing and is not concerned with understanding the content of an image.
+* Computer vision seems easy, perhaps because it is so effortless for humans.
+* One reason is that we don’t have a strong grasp of how human vision works.
+* Another reason why it is such a challenging problem is because of the complexity inherent in the visual world
+* A given object may be seen from any orientation, in any lighting conditions, with any type of occlusion from other objects, and so on. A true vision system must be able to “see” in any of an infinite number of scenes and still extract something meaningful.
+* Computers work well for tightly constrained problems, not open unbounded problems like visual perception.
+* Optical character recognition (OCR)
+* Machine inspection
+* Retail (e.g. automated checkouts)
+* 3D model building (photogrammetry)
+* Medical imaging
+* Automotive safety
+* Match move (e.g. merging CGI with live actors in movies)
+* Motion capture (mocap)
+* Surveillance
+* Fingerprint recognition and biometrics
+* Object Classification: What broad category of object is in this photograph?
+* Object Identification: Which type of a given object is in this photograph?
+* Object Verification: Is the object in the photograph?
+* Object Detection: Where are the objects in the photograph?
+* Object Landmark Detection: What are the key points for the object in the photograph?
+* Object Segmentation: What pixels belong to the object in the image?
+* Object Recognition: What objects are in this photograph and where are they?
+* 
+
 04.07.21
 https://cloud.google.com/vision/docs/drag-and-drop
 * Google API allows a drag and drop test drive feature
