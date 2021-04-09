@@ -1,5 +1,28 @@
 # CV_Spring2021
 
+04.09.21
+* https://towardsdatascience.com/the-4-step-guide-to-becoming-a-computer-vision-expert-in-2020-8e821514e2a7
+* The steps I’ll talk about is not something one can master in 1 month to prepare for the next interview. But these will help you to really get into the domain over a course of 4–9 months depending upon your passion.
+* Theory
+* * https://www.coursera.org/learn/machine-learning
+* * https://www.coursera.org/specializations/deep-learning
+* * http://cs231n.stanford.edu/
+* * https://www.udacity.com/course/computer-vision-nanodegree--nd891
+* * http://deep%20learning%20in%20computer%20vision/
+* Competitions
+* * https://www.kaggle.com/
+* * https://www.aicrowd.com/
+* * https://codalab.org/
+* * https://mlcontests.com/
+*  Personal Projects
+* * Recruiters are more and more focusing on your projects to gauge your capabilities. And in this case, what you are doing is much more important than how well you are doing it. Just to clear up, getting 50% accuracy on an interesting problem on a messy dataset is much better than getting 99.98% accuracy on MNIST.
+* * Create an elaborate notebook on any problem on a dataset. Better yet create a set of notebooks in a repository tackling different sets of problems or using different sets of approaches on the same dataset
+* * Develop a small package that you think will be useful. It does not have to be pathbreaking but just has to make something easier. It will give you a lot of insight into designing and writing code that people can use. Host it on pip if you like. That’s an added star on the collar.
+* Research Papers
+* Extra Insights
+* https://towardsdatascience.com/maximize-your-gpu-dollars-a9133f4e546a
+* 
+
 04.08.21
 https://machinelearningmastery.com/what-is-computer-vision/
 * To get the most out of image data, we need computers to “see” an image and understand the content.
