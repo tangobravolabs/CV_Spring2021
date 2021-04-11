@@ -1,5 +1,28 @@
 # CV_Spring2021
 
+04.11.21
+https://www.cs.washington.edu/research/graphics
+
+Books:
+* https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+* https://www.eecs.yorku.ca/~mbrown/ICCV19_Tutorial_MSBrown.pdf
+* > Due to the accumulation effect of the cones, two different SPDs can be perceived as the same color (such SPDs are called "metamers").
+* > Grassman’s Law states that a source color can be matched by a linear combination of three independent “primaries”. 
+* > Radiometry: Measures either light coming from a source (radiance) or light falling on a surface (irradiance)
+* > Photometry/ colorimetry: Quantitative measurement of perceived radiant energy based on human’s sensitivity to light
+* > Stevens' model stated that human perception to brightness followed a cube-root power-law.
+* Typical image processing pipeline
+* > ISO gain and raw-image processing
+* > RGB Demoasicing
+* > Mapping to sRGB output
+* > Color Manipulation
+* > White-Balance & Color Space Transform
+* > Jpeg compression
+* > Save to file
+* Mistakes made early in the camera pipeline are propagated.
+* https://courses.cs.washington.edu/courses/cse576/20sp/
+* 
+
 04.10.21
 https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5
 * https://heartbeat.fritz.ai/6-significant-computer-vision-problems-solved-by-ml-623eb50544c5
