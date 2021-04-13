@@ -1,5 +1,15 @@
 # CV_Spring2021
 
+04.12.21
+https://www.youtube.com/watch?v=HKnY05QoSi0
+https://www.youtube.com/watch?v=oXlwWbU8l2o
+https://alwaysai.co/blog/computer-vision-on-edge-vs-cloud
+* Edge computing, on the other hand, is a form of distributed computing where all computations occur outside of the cloud, or at the “edge” of a centralized server. 
+* Edge has greater reach and is faster. The edge has no dependency on a central data center or network bandwidth, allowing for computer vision operations in remote locations that lack the necessary network infrastructure and faster response times. This enables the development of new IoT technologies in industries such as agriculture, waste management, and human search & rescue. This also supports more time-sensitive use cases such as robotic surgery, autonomous driving and human fall detection
+* Edge is less risky and more private. Edge computing distributes the risk of exposure across multiple devices, and can perform all processing disconnected from a central server - a more secure and private architecture. For example, edge devices can be installed inside of a person’s home, process real-time data and act on that data without relying on a shared cloud service that could compromise the privacy of their day-to-day activity.
+* Edge is significantly less expensive. Computer vision is a powerful technology, but complex and can become very expensive to build, deploy and maintain. For example, cloud companies charge for inferencing per endpoint, per minute. This may help organizations that want to pay on an ‘as needed’ basis; but becomes enormously burdensome for organizations that demand large amounts of real-time processing - such as a smart city or hospital with many cameras and sensors running 24 hours a day.
+* 
+
 04.11.21
 https://www.cs.washington.edu/research/graphics
 
